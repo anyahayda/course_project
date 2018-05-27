@@ -18,4 +18,5 @@
   
   •	Enter the date, place of departure and arrival, fixed date and press “Search”.
   
-   More details in the video named “How to”.
+   More details in the video named “How to”(bad quality due to the fact that GitHub 
+   can upload video at a maximum size of 25MB, and the original video has 137MB).
